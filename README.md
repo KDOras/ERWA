@@ -11,7 +11,7 @@ We Present You Our Project Will Be Use To :
 - Item For Upgrades
 - Weight
 
-# use
+# Use
 
 # Credits
 
