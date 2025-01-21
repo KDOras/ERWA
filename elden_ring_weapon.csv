@@ -1,4 +1,4 @@
-Name,Type,Phy,Mag,Fir,Lit,Hol,Cri,Sta,Str,Dex,Int,Fai,Arc,Any,Phy,Mag,Fir,Lit,Hol,Bst,Rst,Wgt,Upgrade
+Name,Type,Physic Damage,Magic Damage,Fire Damage,Light Damage,Holy Damage,Crit Damage,Stamina,Str,Dex,Int,Fai,Arc,Special Effect Damage,Physic Blocking,Magic Blocking,Fire Blocking,Light Blocking,Holy Blocking,Boost,Rest,Weight,Upgrade Material
 Academy Glintstone Staff,Glintstone Staff,43,-,-,-,-,100,40,D,-,S,-,-,-,25,15,15,15,15,15,10,3,Smithing Stones
 Alabaster Lord's Sword,Greatsword,313,93,-,-,-,100,126,B,D,D,-,-,-,56,33,27,27,27,39,19,8,Somber Smithing Stones
 Albinauric Bow,Bow,200,-,-,-,-,100,60,E,D,-,-,-,-,-,-,-,-,-,-,-,4.5,Smithing Stones
